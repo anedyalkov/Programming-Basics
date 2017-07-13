@@ -11,7 +11,7 @@ namespace Hello_C
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hi C#");
+            Console.WriteLine("Hello C#");
         }
     }
 }
