@@ -13,8 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle Area", "Rectangle
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square of Stars", "Square of Stars\Square of Stars.csproj", "{E8FD5E4C-645B-408D-B140-BD697E1918DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{7B6EA9FB-564B-4400-9C61-5CF7B05C282A}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello C sharp", "Hello C sharp\Hello C sharp.csproj", "{D628A0F5-330E-4FD5-B305-EAC1D8C5B01B}"
 EndProject
 Global
@@ -43,10 +41,6 @@ Global
 		{E8FD5E4C-645B-408D-B140-BD697E1918DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8FD5E4C-645B-408D-B140-BD697E1918DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8FD5E4C-645B-408D-B140-BD697E1918DF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7B6EA9FB-564B-4400-9C61-5CF7B05C282A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7B6EA9FB-564B-4400-9C61-5CF7B05C282A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7B6EA9FB-564B-4400-9C61-5CF7B05C282A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7B6EA9FB-564B-4400-9C61-5CF7B05C282A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D628A0F5-330E-4FD5-B305-EAC1D8C5B01B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D628A0F5-330E-4FD5-B305-EAC1D8C5B01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D628A0F5-330E-4FD5-B305-EAC1D8C5B01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
