@@ -15,8 +15,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Square of Stars", "Square o
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello C sharp", "Hello C sharp\Hello C sharp.csproj", "{D628A0F5-330E-4FD5-B305-EAC1D8C5B01B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hello friends", "Hello friends\Hello friends.csproj", "{6A21A7E3-37B3-4DC0-AA10-D2F329B0CE15}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,10 +45,6 @@ Global
 		{D628A0F5-330E-4FD5-B305-EAC1D8C5B01B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D628A0F5-330E-4FD5-B305-EAC1D8C5B01B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D628A0F5-330E-4FD5-B305-EAC1D8C5B01B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{6A21A7E3-37B3-4DC0-AA10-D2F329B0CE15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6A21A7E3-37B3-4DC0-AA10-D2F329B0CE15}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6A21A7E3-37B3-4DC0-AA10-D2F329B0CE15}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6A21A7E3-37B3-4DC0-AA10-D2F329B0CE15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
